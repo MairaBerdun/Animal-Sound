@@ -1,0 +1,77 @@
+body {
+  text-align: center;
+  background-color: #9da7c0;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #5c5937;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #a87756;
+
+}
+
+h2{
+  font-size: 1.3rem;
+  color: #000000;
+  font-family: "Arvo", cursive;
+}
+
+footer {
+  color: #000000;
+  font-family: "Arvo", cursive;
+}
+
+.uno {
+  background-image: url("images/pajaro.jpg");
+}
+
+.dos {
+  background-image: url("images/elefante.jpg");
+}
+
+.tres {
+  background-image: url("images/perro.jpg");
+}
+
+.cuatro {
+  background-image: url("images/tigre.jpg");
+}
+
+.cinco {
+  background-image: url("images/gato.jpg");
+}
+
+.seis {
+  background-image: url("images/vaca.jpg");
+}
+
+.siete {
+  background-image: url("images/zorro.jpg");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.red {
+  color: red;
+}
+
+.animal {
+  outline: none;
+  border: 5px solid #8d8888;
+  font-size: 2rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: rgba(0, 0, 0, 0.7);
+  text-shadow: 3px 0 #f3f3f3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}

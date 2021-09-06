@@ -23,31 +23,31 @@ footer {
 }
 
 .uno {
-  background-image: url("images/pajaro.jpg");
+  background-image: url("./images/pajaro.jpg");
 }
 
 .dos {
-  background-image: url("images/elefante.jpg");
+  background-image: url("./images/elefante.jpg");
 }
 
 .tres {
-  background-image: url("images/perro.jpg");
+  background-image: url("./images/perro.jpg");
 }
 
 .cuatro {
-  background-image: url("images/tigre.jpg");
+  background-image: url("./images/tigre.jpg");
 }
 
 .cinco {
-  background-image: url("images/gato.jpg");
+  background-image: url("./images/gato.jpg");
 }
 
 .seis {
-  background-image: url("images/vaca.jpg");
+  background-image: url("./images/vaca.jpg");
 }
 
 .siete {
-  background-image: url("images/zorro.jpg");
+  background-image: url("./images/zorro.jpg");
 }
 
 .set {
